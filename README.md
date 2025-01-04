@@ -26,7 +26,7 @@
 
 ### **Step 1: Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/advanced-graphql-finder.git
+git clone https://github.com/kishanmca2024/Advanced-GraphQL-Finder.git
 cd advanced-graphql-finder
 ```
 
